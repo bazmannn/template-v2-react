@@ -9,7 +9,6 @@ A minimal, fast, and modern starter template for building React apps using **Vit
 - ⚛️ React 18 with Functional Components  
 - 🟦 TypeScript support  
 - ⚡️ Lightning-fast build and HMR via Vite  
-- 📏 ESLint for consistent code style  
 - 🌐 Ready-to-deploy on Vercel (with `vercel.json` included)  
 - 📁 Simple, clean project structure  
 
@@ -64,9 +63,7 @@ Output will be in the `dist/` folder.
 npm run lint
 ```
 
-Runs ESLint to check for code issues.
 
----
 
 ## 📁 Project Structure
 
